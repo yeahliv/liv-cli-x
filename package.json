@@ -1,7 +1,7 @@
 {
   "name": "liv-cli-x",
-  "version": "1.0.0",
-  "description": "A pull Vue project to the extreme speed of the CLI",
+  "version": "1.0.2",
+  "description": "A pull Vue project template to the extreme speed of the CLI",
   "main": "index.js",
   "bin": {
     "liv-cli": "index.js"

@@ -78,13 +78,13 @@ program.version('v1.0.0', '-v, --version')
       spinner.stop()
 
       // Complete
-      console.log(chalk.hex('#00FF00').bold('\n    Complete!'))
+      console.log(chalk.greenBright('\n    Complete!'))
 
       if (config.path != process.cwd()) {
         console.log(chalk.hex('#00F5FF').bold(`\n    cd ${config.name}`))
       }
-      console.log(chalk.hex('#00F5FF').bold('\n    npm install'))
-      console.log(chalk.hex('#00F5FF').bold('\n    npm run dev'))
+      console.log(chalk.blueBright('\n    npm install'))
+      console.log(chalk.blueBright('\n    npm run dev'))
     })
   })
 
