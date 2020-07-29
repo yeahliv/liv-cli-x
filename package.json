@@ -1,7 +1,7 @@
 {
-  "name": "liv-cli",
+  "name": "liv-cli-x",
   "version": "1.0.0",
-  "description": "",
+  "description": "A pull Vue project to the extreme speed of the CLI",
   "main": "index.js",
   "bin": {
     "liv-cli": "index.js"
@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "LivYe",
+  "email": "951946936@qq.com",
   "license": "ISC",
   "dependencies": {
     "chalk": "4.1.0",
