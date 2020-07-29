@@ -1,6 +1,6 @@
 {
   "name": "liv-cli-x",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A pull Vue project template to the extreme speed of the CLI",
   "main": "index.js",
   "bin": {
@@ -13,6 +13,10 @@
   "author": "LivYe",
   "email": "951946936@qq.com",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yeahliv/liv-cli-x.git"
+  },
   "dependencies": {
     "chalk": "4.1.0",
     "commander": "6.0.0",
